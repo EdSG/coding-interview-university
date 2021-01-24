@@ -202,11 +202,11 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 **Create a new branch so you can check items like this, just put an x in the brackets: [x]**
 
-- [ ] Fork a branch and follow the commands below
+- [X] Fork a branch and follow the commands below
 
 Fork the GitHub repo https://github.com/jwasham/coding-interview-university by clicking on the Fork button
 
-- [ ] Clone to your local repo
+- [X] Clone to your local repo
 
 `git clone git@github.com:<your_github_username>/coding-interview-university.git`
 
@@ -216,7 +216,7 @@ Fork the GitHub repo https://github.com/jwasham/coding-interview-university by c
 
 `git fetch --all`
 
-- [ ] Mark all boxes with X after you completed your changes
+- [X] Mark all boxes with X after you completed your changes
 
 `git add .`
 
