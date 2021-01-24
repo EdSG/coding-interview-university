@@ -202,21 +202,21 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 **Create a new branch so you can check items like this, just put an x in the brackets: [x]**
 
-    [x] Fork a branch and follow the commands below
+- [ ] Fork a branch and follow the commands below
 
 Fork the GitHub repo https://github.com/jwasham/coding-interview-university by clicking on the Fork button
 
-    [x] Clone to your local repo
+- [ ] Clone to your local repo
 
-[x] `git clone git@github.com:<your_github_username>/coding-interview-university.git`
+`git clone git@github.com:<your_github_username>/coding-interview-university.git`
 
-[x] `git checkout -b progress`
+`git checkout -b progress`
 
-[x] `git remote add jwasham https://github.com/jwasham/coding-interview-university`
+`git remote add jwasham https://github.com/jwasham/coding-interview-university`
 
-[x] `git fetch --all`
+`git fetch --all`
 
-   [x] Mark all boxes with X after you completed your changes
+- [ ] Mark all boxes with X after you completed your changes
 
 `git add .`
 
@@ -248,7 +248,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 
 ## Interview Process & General Interview Prep
 
-- [ ] [How to Pass the Engineering Interview in 2021](https://davidbyttow.medium.com/how-to-pass-the-engineering-interview-in-2021-45f1b389a1)
+- [X] [How to Pass the Engineering Interview in 2021](https://davidbyttow.medium.com/how-to-pass-the-engineering-interview-in-2021-45f1b389a1)
 - [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] How to Get a Job at the Big 4:
